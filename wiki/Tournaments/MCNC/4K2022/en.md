@@ -10,6 +10,8 @@ tags:
 
 ![MCNC 2022 logo](img/Logo.png)
 
+The **osu!mania 4K Chinese National Cup 2022** (***MCNC 4K 2022***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the 4th instalment of the osu!mania 4K Chinese National Cup.
+
 ## Tournament schedule
 
 | Event | Timestamp |
@@ -32,7 +34,7 @@ tags:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 1,888, Custom clothing of MCNC |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 888, Custom clothing of MCNC |
 
-![MCNC 4K 2022 winner badge](img/MCNC4K2022 badge 172_80.png)
+![MCNC 4K 2022 winner badge](img/badge.png)
 
 ## Organisation
 
@@ -54,8 +56,9 @@ The osu!mania 4K Chinese National Cup 2022 was run by various community members.
 - [Discussion thread (Chinese)]( https://osu.ppy.sh/community/forums/topics/1567763)
 - [Livestream](https://live.bilibili.com/2996250)
 - [Discord Server](https://discord.gg/uBHK5vq)
+- [Main page](https://mcnc.crzteam.cn/home)
 - [Challonge bracket](https://challonge.com/zh_CN/MCNC4K2022)
-- **[Statistics sheet](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/osumania-4k-chinese-national-cup-2022-statistics-sheet-mcnc4k-2022-match-results-schedules.html)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSuqC2mt_bK_gizx6Lxcpaky4ZwA-4W7z36fkIORE_w5ormZ3aiVwPHbx9ZJ4ggVLPwuTrwaTaym62P/pubhtml)**
 
 ## Participants
 
@@ -345,7 +348,7 @@ This competition has come to an end and resulted in the following podium:
 ## Match results
 
 ### Grand Finals
-Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-grand-finals-statistics-best-performances.html).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQwCoS-bhGwe2M23allpX9vSprkq-B-iKxAKI5m94bYtgqWWd9wx_23yNQEMfAXO86hx4A3riuze9q6/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -353,7 +356,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | **Quotient GD** | **7** | 5 | \[Crz\]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/103205972) |
 
 ### Finals
-Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-finals-statistics-best-performances.html).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRAH-8foKlQwbVMb2hEr_7j2_NaN4Kk96kxPAqfcSlZybqDfX2wRa9QKSmKaf3D3un29nMdtXGSk1wO/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -363,7 +366,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | **\[Crz\]sunnyxxy** | **0** | -1 | Miyes | *Win by Default* |
 
 ### Semifinals
-Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-semifinals-statistics-best-performances.html).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTJWFI26fVlgKw3W9sESyOTT1mwD2OejFddQ_x6f6BUQ1h2SKzu3mbs-ZXnkaL8IFsbA2-7-dn0kEqR/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -377,7 +380,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | Miyes | **0** | -1 | Akermo | *Win by Default* |
 
 ### Quarterfinals
-Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-quarterfinals-statistics-best-performances.html).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRyNO9vuGcreVNTycCy_cS0R0dl8BsuXSW66jqUAJP_-Wr0ffN9y0q0dkr0MMgnxcw99kq0JZCjrYp9/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -399,7 +402,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | **Ricizus** | **0** | -1 | Kuiiiiteeee | *Win by Default* |
 
 ### Round of 16
-Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-round-of-16-statistics-best-performances.html).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRwM8orTa_mNx3X7LiFO_NRtjLy0CUEUWljKkH_bl4GSogv-BsZst38E_Qrc4-AWi7mtnf22N0y3p9d/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -437,7 +440,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | **\[GB\]yobrevelc** | **6** | 3 | MCPXiaoBai | [#1](https://osu.ppy.sh/community/matches/102523221) |
 
 ### Round of 32
-Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-round-of-32-statistics-best-performances.html).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQC0-Lqq1eVPtonSLvhMycP7xZYl4ZL9OT6UuwFX5g5AkW96RGmTy1cYfGJfSZVn7cWsT3aCZ1xjIGo/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -475,7 +478,7 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | **MegMewtwoZ** | **5** | 0 | \[GB\]sherweifa | [#1](https://osu.ppy.sh/community/matches/102341395) |
 
 ### Round of 64
-Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/sheet?src=https://mcnc.crzteam.cn/static/mcnc-4k-2022-round-of-64-statistics-best-performances.html).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vR32zbnzOPyTGvYbdmce55udUrQd27t8evPdy21Lv4sKb4VAtp2sWLOyoBv-5y7eDLGCOzwmv9tHw7h/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -512,6 +515,9 @@ Detailed statistics for this round can be found [here](https://mcnc.crzteam.cn/s
 | **- Xiaoluoli -** | **4** | 1 | DJ Sharpnel | [#1](https://osu.ppy.sh/community/matches/102156358) |
 | **-Chen-** | **4** | 3 | Alptraum | [#1](https://osu.ppy.sh/community/matches/102157598) |
 
+### Qualifiers
+
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxhRq646bM55YTuQsRwrAE_3i-SIOKLHrwc0mo8Gw8bmn5jhPFqmKPxmAnMW_97esyMe_QBVWEaA_V/pubhtml). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVyC1X5H34T8QQ-bRYTn01eiorzv73x2Uzc2ck6UGBhIvb3EFZJooAsaBz4wdI9cR3Srb5EwJzPolF/pubhtml).
 ## Ruleset
 
 ### Tournament rules
