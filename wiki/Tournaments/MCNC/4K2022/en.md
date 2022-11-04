@@ -16,8 +16,8 @@ The **osu!mania 4K Chinese National Cup 2022** (***MCNC 4K 2022***) was a countr
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2022-5-15/2022-6-12
-| Qualifier Stage | 2022-6-26/2022-7-3
+| Registration phase | 2022-05-15/2022-06-12
+| Qualifier stage | 2022-6-26/2022-7-3
 | Round of 64 | 2022-7-9/2022-7-10
 | Round of 32 | 2022-7-16/2022-7-17
 | Round of 16 | 2022-7-23/2022-7-24
@@ -54,7 +54,7 @@ The osu!mania 4K Chinese National Cup 2022 was run by various community members.
 - [Discussion thread (English)]( https://osu.ppy.sh/community/forums/topics/1567764)
 - [Discussion thread (Chinese)]( https://osu.ppy.sh/community/forums/topics/1567763)
 - [Livestream](https://live.bilibili.com/2996250)
-- [Discord Server](https://discord.gg/uBHK5vq)
+- [Discord server](https://discord.gg/uBHK5vq)
 - [Main page](https://mcnc.crzteam.cn/home)
 - [Challonge bracket](https://challonge.com/zh_CN/MCNC4K2022)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSuqC2mt_bK_gizx6Lxcpaky4ZwA-4W7z36fkIORE_w5ormZ3aiVwPHbx9ZJ4ggVLPwuTrwaTaym62P/pubhtml)**
@@ -137,7 +137,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: [MegMewtwoZ](https://osu.ppy.sh/users/13235067) |
 
-![MCNC 4K 2022 Podium](img/podium.png)
+![MCNC 4K 2022 podium](img/podium.png)
 
 ## Mappools
 
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Alon Mor - Oselot (TheToaphster) \[Demons\]](https://osu.ppy.sh/beatmapsets/632073#mania/1341876)
   2. [sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix) (Ciel) \[fn(top=true,sv=true)\]](https://osu.ppy.sh/beatmapsets/1569250#mania/3204545)
 - Tiebreaker
-  1. [Tsukimi Shizuka x LUNARiUM - Fight Against the Past (\[Crz\]xz1z1z) \[Revolution\]](https://osu.ppy.sh/beatmapsets/1828541#mania/3752841)
+  1. **[Tsukimi Shizuka x LUNARiUM - Fight Against the Past (\[Crz\]xz1z1z) \[Revolution\]](https://osu.ppy.sh/beatmapsets/1828541#mania/3752841)**
 
 ### Finals
 
@@ -347,6 +347,7 @@ This competition has come to an end and resulted in the following podium:
 ## Match results
 
 ### Grand Finals
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQwCoS-bhGwe2M23allpX9vSprkq-B-iKxAKI5m94bYtgqWWd9wx_23yNQEMfAXO86hx4A3riuze9q6/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
