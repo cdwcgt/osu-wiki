@@ -8,7 +8,7 @@ tags:
 
 # osu!mania 4K Chinese National Cup 2022
 
-![MCNC 2022 logo](img/Logo.png)
+![MCNC 2022 logo](img/logo.png)
 
 The **osu!mania 4K Chinese National Cup 2022** (***MCNC 4K 2022***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the 4th instalment of the osu!mania 4K Chinese National Cup.
 
@@ -17,14 +17,14 @@ The **osu!mania 4K Chinese National Cup 2022** (***MCNC 4K 2022***) was a countr
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-05-15/2022-06-12
-| Qualifier stage | 2022-6-26/2022-7-3
-| Round of 64 | 2022-7-9/2022-7-10
-| Round of 32 | 2022-7-16/2022-7-17
-| Round of 16 | 2022-7-23/2022-7-24
-| Quarterfinals | 2022-7-30/2022-7-31
-| Semifinals | 2022-8-6/2022-8-7
-| Finals | 2022-8-13/2022-8-14
-| Grand Finals | 2022-8-20/2022-8-21
+| Qualifiers | 2022-06-26/2022-07-03
+| Round of 64 | 2022-07-09/2022-07-10
+| Round of 32 | 2022-07-16/2022-07-17
+| Round of 16 | 2022-07-23/2022-07-24
+| Quarterfinals | 2022-07-30/2022-07-31
+| Semifinals | 2022-08-06/2022-08-07
+| Finals | 2022-08-13/2022-08-14
+| Grand Finals | 2022-08-20/2022-08-21
 
 ## Prizes
 
@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
   1. [edIT – Ants (Toaph Daddy) \[Stage 1: Sting\]](https://osu.ppy.sh/beatmapsets/901864#mania/1882999)
   2. [PSYQUI – Decay (Paturages) \[Sandbag\]](https://osu.ppy.sh/beatmapsets/1617304#mania/3302183)
 - Tiebreaker
-  1. [HyuN feat. Sennzai - Duplicity Shade (\[Crz\]xz1z1z) \[Muses vs xz's WTF!\]](https://osu.ppy.sh/beatmapsets/1823673#mania/3742074)
+  1. **[HyuN feat. Sennzai - Duplicity Shade (\[Crz\]xz1z1z) \[Muses vs xz's WTF!\]](https://osu.ppy.sh/beatmapsets/1823673#mania/3742074)**
 
 ### Semifinals
 
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
   1. [DJPoyoshi – Esperanza (Paturages) \[SVranza\]](https://osu.ppy.sh/beatmapsets/1232159#mania/3067776)
   2. [Eliminate - Weeble Wobble VIP (Orca-) \[Helluvit\]](https://osu.ppy.sh/beatmapsets/1692600#mania/3458605)
 - Tiebreaker
-  1. [Camellia - Qyoh (Nine Stars) (Evening) \[to Tesellate a Constellation\]](https://osu.ppy.sh/beatmapsets/1818720#mania/3731524)
+  1. **[Camellia - Qyoh (Nine Stars) (Evening) \[to Tesellate a Constellation\]](https://osu.ppy.sh/beatmapsets/1818720#mania/3731524)**
 
 ### Quarterfinals
 
@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Masafumi Takada - Re: Underground Trial (Paturages) \[Sentence Vote\]](https://osu.ppy.sh/beatmapsets/1477429#mania/3031259)
   2. [Nizikawa - Bass Battle (vs. Freezer) (Tidek) \[Encounter\]](https://osu.ppy.sh/beatmapsets/1374142#mania/2840693)
 - Tiebreaker
-  1. [Camellia - #1f1e33 (#00102g version) (gzdongsheng) \[Black End\]](https://osu.ppy.sh/beatmapsets/1611919#mania/3291051)
+  1. **[Camellia - #1f1e33 (#00102g version) (gzdongsheng) \[Black End\]](https://osu.ppy.sh/beatmapsets/1611919#mania/3291051)**
 
 ### Round of 16
 
@@ -281,7 +281,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Mr. Fantastic – Hyperactive (xero2snow) \[Stage 1: Subtle\]](https://osu.ppy.sh/beatmapsets/1017965#mania/2130420)
   2. [Brandy - Cross Time (\[Crz\]xz1z1z) \[yes\]](https://osu.ppy.sh/beatmapsets/1800259#mania/3690749)
 - Tiebreaker
-  1. [Yooh - RPG (\[Crz\]xz1z1z) \[Terminator\]](https://osu.ppy.sh/beatmapsets/1747426#mania/3574256)
+  1. **[Yooh - RPG (\[Crz\]xz1z1z) \[Terminator\]](https://osu.ppy.sh/beatmapsets/1747426#mania/3574256)**
 
 ### Round of 32
 
@@ -306,7 +306,7 @@ This competition has come to an end and resulted in the following podium:
   1. [40mP - Dan Dan Hayaku Naru (zero2snow) \[Accelerating\]](https://osu.ppy.sh/beatmapsets/960060#mania/2009992)
   2. [CanBlaster - Tribe Attacker (\[Crz\]xz1z1z) \[Hi-G\]](https://osu.ppy.sh/beatmapsets/1800935#mania/3692481)
 - Tiebreaker
-  1. [Teminite & PsoGnar - Rally The Troops (\[Crz\]xz1z1z) \[Alleyne vs xz's slaughterous\]](https://osu.ppy.sh/beatmapsets/1800522#mania/3691333)
+  1. **[Teminite & PsoGnar - Rally The Troops (\[Crz\]xz1z1z) \[Alleyne vs xz's slaughterous\]](https://osu.ppy.sh/beatmapsets/1800522#mania/3691333)**
 
 ### Round of 64
 
@@ -328,7 +328,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Dasu – NAKAKAPAGPABAGABAG (lolol727) \[SV\]](https://osu.ppy.sh/beatmapsets/1795215#mania/3679618)
   2. [MAZO - Break It Down (\[Crz\]xz1z1z) \[Break SV Down\]](https://osu.ppy.sh/beatmapsets/1795211#mania/3679613)
 - Tiebreaker
-  1. [Raphlesia & BilliumMoto - My Love (Shorter) (AlexDunk) \[Life work.\]](https://osu.ppy.sh/beatmapsets/1795261#mania/3679731)
+  1. **[Raphlesia & BilliumMoto - My Love (Shorter) (AlexDunk) \[Life work.\]](https://osu.ppy.sh/beatmapsets/1795261#mania/3679731)**
 
 ### Qualifiers
 
@@ -356,6 +356,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | **Quotient GD** | **7** | 5 | \[Crz\]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/103205972) |
 
 ### Finals
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRAH-8foKlQwbVMb2hEr_7j2_NaN4Kk96kxPAqfcSlZybqDfX2wRa9QKSmKaf3D3un29nMdtXGSk1wO/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -366,6 +367,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | **\[Crz\]sunnyxxy** | **0** | -1 | Miyes | *Win by Default* |
 
 ### Semifinals
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTJWFI26fVlgKw3W9sESyOTT1mwD2OejFddQ_x6f6BUQ1h2SKzu3mbs-ZXnkaL8IFsbA2-7-dn0kEqR/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -380,6 +382,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | Miyes | **0** | -1 | Akermo | *Win by Default* |
 
 ### Quarterfinals
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRyNO9vuGcreVNTycCy_cS0R0dl8BsuXSW66jqUAJP_-Wr0ffN9y0q0dkr0MMgnxcw99kq0JZCjrYp9/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -402,6 +405,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | **Ricizus** | **0** | -1 | Kuiiiiteeee | *Win by Default* |
 
 ### Round of 16
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRwM8orTa_mNx3X7LiFO_NRtjLy0CUEUWljKkH_bl4GSogv-BsZst38E_Qrc4-AWi7mtnf22N0y3p9d/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -440,6 +444,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | **\[GB\]yobrevelc** | **6** | 3 | MCPXiaoBai | [#1](https://osu.ppy.sh/community/matches/102523221) |
 
 ### Round of 32
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQC0-Lqq1eVPtonSLvhMycP7xZYl4ZL9OT6UuwFX5g5AkW96RGmTy1cYfGJfSZVn7cWsT3aCZ1xjIGo/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -478,6 +483,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | **MegMewtwoZ** | **5** | 0 | \[GB\]sherweifa | [#1](https://osu.ppy.sh/community/matches/102341395) |
 
 ### Round of 64
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vR32zbnzOPyTGvYbdmce55udUrQd27t8evPdy21Lv4sKb4VAtp2sWLOyoBv-5y7eDLGCOzwmv9tHw7h/pubhtml).
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -518,6 +524,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 ### Qualifiers
 
 The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxhRq646bM55YTuQsRwrAE_3i-SIOKLHrwc0mo8Gw8bmn5jhPFqmKPxmAnMW_97esyMe_QBVWEaA_V/pubhtml). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVyC1X5H34T8QQ-bRYTn01eiorzv73x2Uzc2ck6UGBhIvb3EFZJooAsaBz4wdI9cR3Srb5EwJzPolF/pubhtml).
+
 ## Ruleset
 
 ### Tournament rules
@@ -563,10 +570,10 @@ The final standings for the Qualifier stage can be found at the following [sprea
 5. All successfully formed players will be published after the Registration Phase.
 6. Organisers, mappool selectors and referees must not participate as a player in the tournament.
 
-### Qualifier instructions
-1. There will be no warmups during the qualifier stage.
-2. In the Qualifier stage, all players will play a specific pool designed by the map selectors.
-3. The Qualifier pool contains 8 maps, all of which will use FreeMod rules.
+### Qualifiers instructions
+1. There will be no warmups during the Qualifiers.
+2. In the Qualifiers, all players will play a specific pool designed by the map selectors.
+3. The Qualifiers pool contains 8 maps, all of which will use FreeMod rules.
 4. Players will have to play the mappool twice at a designated time. Their best combined score will be used for seeding.
 5. The mappool will be played in the order listed above.
 6. There will be an optional 5-minute break in between the first and second play-through of the mappool.
@@ -603,7 +610,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 7. Results of the Qualifiers Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
-1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
+1. There will be one mappool for each stage.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
