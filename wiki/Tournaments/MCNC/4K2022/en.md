@@ -523,7 +523,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxhRq646bM55YTuQsRwrAE_3i-SIOKLHrwc0mo8Gw8bmn5jhPFqmKPxmAnMW_97esyMe_QBVWEaA_V/pubhtml). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVyC1X5H34T8QQ-bRYTn01eiorzv73x2Uzc2ck6UGBhIvb3EFZJooAsaBz4wdI9cR3Srb5EwJzPolF/pubhtml).
+The final standings for the Qualifiers can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxhRq646bM55YTuQsRwrAE_3i-SIOKLHrwc0mo8Gw8bmn5jhPFqmKPxmAnMW_97esyMe_QBVWEaA_V/pubhtml). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVyC1X5H34T8QQ-bRYTn01eiorzv73x2Uzc2ck6UGBhIvb3EFZJooAsaBz4wdI9cR3Srb5EwJzPolF/pubhtml).
 
 ## Ruleset
 
@@ -532,7 +532,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 1. The MCNC4k is a head-to-head individual tournament, played on the osu!mania game mode.
 2. Beatmap scoring will be based on Head-To-Head, Score V2.
 3. The beatmaps for each round will be announced by the Mappool Selector Team before the actual matches take place.
-   - Each mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g., the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
+   - Each mappool, except for the Qualifiers, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g., the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 4. Match schedule will be handled by the Tournament Management.
 5. If no referees are available at match time, the match will be postponed.
 6. Failed players scores will be considered a loss, even its higher than the opponent.
@@ -570,7 +570,6 @@ The final standings for the Qualifier stage can be found at the following [sprea
 5. All successfully formed players will be published after the Registration Phase.
 6. Organisers, mappool selectors and referees must not participate as a player in the tournament.
 
-### Qualifiers instructions
 1. There will be no warmups during the Qualifiers.
 2. In the Qualifiers, all players will play a specific pool designed by the map selectors.
 3. The Qualifiers pool contains 8 maps, all of which will use FreeMod rules.
