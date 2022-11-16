@@ -16,15 +16,15 @@ The **osu!mania 4K Chinese National Cup 2022** (***MCNC 4K 2022***) was a countr
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2022-05-15/2022-06-12
-| Qualifiers | 2022-06-26/2022-07-03
-| Round of 64 | 2022-07-09/2022-07-10
-| Round of 32 | 2022-07-16/2022-07-17
-| Round of 16 | 2022-07-23/2022-07-24
-| Quarterfinals | 2022-07-30/2022-07-31
-| Semifinals | 2022-08-06/2022-08-07
-| Finals | 2022-08-13/2022-08-14
-| Grand Finals | 2022-08-20/2022-08-21
+| Registration phase | 2022-05-15/2022-06-12 |
+| Qualifiers | 2022-06-26/2022-07-03 |
+| Round of 64 | 2022-07-09/2022-07-10 |
+| Round of 32 | 2022-07-16/2022-07-17 |
+| Round of 16 | 2022-07-23/2022-07-24 |
+| Quarterfinals | 2022-07-30/2022-07-31 |
+| Semifinals | 2022-08-06/2022-08-07 |
+| Finals | 2022-08-13/2022-08-14 |
+| Grand Finals | 2022-08-20/2022-08-21 |
 
 ## Prizes
 
@@ -569,6 +569,8 @@ The final standings for the Qualifiers can be found at the following [spreadshee
 4. To ensure that the game is played normally, every registered user will be manually checked by the Tournament Management and will give the list to the official osu! Staff to check.
 5. All successfully formed players will be published after the Registration Phase.
 6. Organisers, mappool selectors and referees must not participate as a player in the tournament.
+
+### Qualifier instructions
 
 1. There will be no warmups during the Qualifiers.
 2. In the Qualifiers, all players will play a specific pool designed by the map selectors.
