@@ -161,7 +161,7 @@ This competition has come to an end and resulted in the following podium:
  \[Diastereomers \[1.2x Rate\]\]](https://osu.ppy.sh/beatmapsets/1742086#mania/3561401)
 - Hybrid
   1. [Camellia - +ERABY+E CONNEC+10N (HowToPlayLN) \[504 ServerError: Gateway Timeout\]](https://osu.ppy.sh/beatmapsets/1338625#mania/2772922)
-  2. [Camellia - Dans la mer de son (Toaph Daddy) \[Diabolos x1.1\]](https://osu.ppy.sh/beatmapsets/1443348#mania/2968916) https://osu.ppy.sh/beatmapsets/1338625#mania/2772922)
+  2. [Camellia - Dans la mer de son (Toaph Daddy) \[Diabolos x1.1\]](https://osu.ppy.sh/beatmapsets/1443348#mania/2968916)
   3. [TryHardNinja - Revenge (feat. CaptainSparklez) (ReeK's "Dude, What's A Genre?" Remix) (\[Crz\]Alleyne) \[mint's Creeper 1.1x (181bpm)\]](https://osu.ppy.sh/beatmapsets/1827304#mania/3750051)
 - Difficulty
   1. [lmperial Circus Dead Decadence – Uta (Evening) \[Everlasting Duet 1.25x\]](https://osu.ppy.sh/beatmapsets/1825157#mania/3745609)
@@ -264,7 +264,7 @@ This competition has come to an end and resulted in the following podium:
   1. [E-Type - This ls The Way (Jole) \[short way\]](https://osu.ppy.sh/beatmapsets/1435426#mania/3000972)
   2. [DJ SHARPNEL- STRANGEPROGRAM (Shoegazer) \[Malfunction\]](https://osu.ppy.sh/beatmapsets/1393835#mania/2888756)
   3. [DJ SHARPNEL- Kaze no Naka no Subaru"Hyougenshatachi~ (Jole) \[subarushii\]](https://osu.ppy.sh/beatmapsets/1628745#mania/3325116)
-  4. [ F-777 - Ultra Violet (chxu) \[Hyperbolic x1.05\]](https://osu.ppy.sh/beatmapsets/1687224#mania/3448235)
+  4. [F-777 - Ultra Violet (chxu) \[Hyperbolic x1.05\]](https://osu.ppy.sh/beatmapsets/1687224#mania/3448235)
   5. [SLAM & NATO – PARADOXX (Shoegazer) \[lconoclasm\]\]](https://osu.ppy.sh/beatmapsets/1621312#mania/3422102)
   6. [Lolipusher - why as soon as we became so close, we have to say goodbye? (Monheim) \[december\]](https://osu.ppy.sh/beatmapsets/839786#mania/2415750)
 - LN
@@ -416,7 +416,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | **Zyuuu** | **6** | 0 | Etanity Larva | [#1](https://osu.ppy.sh/community/matches/102467716) |
 | **- Xiaoluoli -** | **6** | 1 | N3k0ha_5h12uku | [#1](https://osu.ppy.sh/community/matches/102468766) |
 | **rurudo1o1o** | **6** | 2 | MkoTenshi | [#1](https://osu.ppy.sh/community/matches/102468763) |
-| **Kuiiiiteeee** | **6** | 1 | \[Crz\]Riko | [#1](https://osu.ppy.sh/community/matches/102470373) | 
+| **Kuiiiiteeee** | **6** | 1 | \[Crz\]Riko | [#1](https://osu.ppy.sh/community/matches/102470373) |
 | - Minato Aqua - | -1 | **0** | **Molli** | *Win by Default* |
 | **\[GB\]Tyris** | **6** | 1 | shade0214 | [#1](https://osu.ppy.sh/community/matches/102489720) |
 | **IsxI** | **0** | -1 | U1d | *Win by Default* |
@@ -611,6 +611,7 @@ The final standings for the Qualifiers can be found at the following [spreadshee
 7. Results of the Qualifiers Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
+
 1. There will be one mappool for each stage.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
@@ -627,6 +628,8 @@ The final standings for the Qualifiers can be found at the following [spreadshee
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions
+
 1. Each stage will be held on a single weekend. It could be held on weekdays if each players required, but not recommend.
 2. The schedule is decided by the Tournament Management. The daily schedule will be released every Tuesday before.
 3. If player need to make a temporary change after decide the game time. Rescheduling can only be considered with the consent of both players, and the scheduled time must be every Thursday before.
+
