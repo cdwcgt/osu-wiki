@@ -632,4 +632,3 @@ The final standings for the Qualifiers can be found at the following [spreadshee
 1. Each stage will be held on a single weekend. It could be held on weekdays if each players required, but not recommend.
 2. The schedule is decided by the Tournament Management. The daily schedule will be released every Tuesday before.
 3. If player need to make a temporary change after decide the game time. Rescheduling can only be considered with the consent of both players, and the scheduled time must be every Thursday before.
-
